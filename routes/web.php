@@ -15,4 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome'); //Kata-kata hari ini
+    //Tul kuntul kuntul kuntul kimak
 });
